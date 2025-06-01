@@ -50,7 +50,7 @@ Celestine Forge is a unique JavaScript-based puzzle game where players align har
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major updates, open an issue first to discuss your ideas.
 
 ## Support
-If you enjoy Celestine Forge and want to support its development, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/your-username). Your support helps keep this project alive and growing!
+If you enjoy Celestine Forge and want to support its development, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/loigaak). Your support helps keep this project alive and growing!
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
